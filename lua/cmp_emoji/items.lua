@@ -1422,8 +1422,8 @@ return function() return {
 { word = ':white_large_square:'; label = '⬜ :white_large_square:'; insertText = '⬜'; filterText = ':white_large_square:' };
 { word = ':star:'; label = '⭐ :star:'; insertText = '⭐'; filterText = ':star:' };
 { word = ':o:'; label = '⭕ :o:'; insertText = '⭕'; filterText = ':o:' };
-{ word = ':wavy_dash:'; label = '〰️ :wavy_dash:'; insertText = '〰️'; filterText = ':wavy_dash:' };
-{ word = ':part_alternation_mark:'; label = '〽️ :part_alternation_mark:'; insertText = '〽️'; filterText = ':part_alternation_mark:' };
-{ word = ':congratulations:'; label = '㊗️ :congratulations:'; insertText = '㊗️'; filterText = ':congratulations:' };
-{ word = ':secret:'; label = '㊙️ :secret:'; insertText = '㊙️'; filterText = ':secret:' };
+-- { word = ':wavy_dash:'; label = '〰️ :wavy_dash:'; insertText = '〰️'; filterText = ':wavy_dash:' };
+-- { word = ':part_alternation_mark:'; label = '〽️ :part_alternation_mark:'; insertText = '〽️'; filterText = ':part_alternation_mark:' };
+-- { word = ':congratulations:'; label = '㊗️ :congratulations:'; insertText = '㊗️'; filterText = ':congratulations:' };
+-- { word = ':secret:'; label = '㊙️ :secret:'; insertText = '㊙️'; filterText = ':secret:' };
 } end
