@@ -88,6 +88,17 @@ return function() return {
 { word = ':wifi2:'; label = '睊 :wifi2:'; insertText = '睊'; filterText = ':wifi2:' };
 { word = ':wii1:'; label = '着 :wii1:'; insertText = '着'; filterText = ':wii1:' };
 { word = ':lamp4:'; label = '盛 :lamp4:'; insertText = '盛'; filterText = ':lamp4:' };
+{ word = ':tool1:'; label = '襁 :tool1:'; insertText = '襁'; filterText = ':tool1:' };
+{ word = ':tool2:'; label = ' :tool2:'; insertText = ''; filterText = ':tool2:' };
+{ word = ':xbox1:'; label = '視 :xbox1:'; insertText = '視'; filterText = ':xbox1:' };
+{ word = ':controller1:'; label = '調 :controller1:'; insertText = '調'; filterText = ':controller1:' };
+{ word = ':controller2:'; label = '諸 :controller2:'; insertText = '諸'; filterText = ':controller2:' };
+{ word = ':html1:'; label = '謹 :html1:'; insertText = '謹'; filterText = ':html1:' };
+{ word = ':youtube1:'; label = '輸 :youtube1:'; insertText = '輸'; filterText = ':youtube1:' };
+{ word = ':speak1:'; label = '響 :speak1:'; insertText = '響'; filterText = ':speak1:' };
+{ word = ':arrow1:'; label = '頻 :arrow1:'; insertText = '頻'; filterText = ':arrow1:' };
+{ word = ':telegram3:'; label = ' :telegram3:'; insertText = ''; filterText = ':telegram3:' };
+{ word = ':clockD:'; label = '鬒 :clockD:'; insertText = '鬒'; filterText = ':clockD:' };
 
 { word = ':hash:'; label = '#️⃣ :hash:'; insertText = '#️⃣'; filterText = ':hash:' };
 { word = ':keycap_star:'; label = '*️⃣ :keycap_star:'; insertText = '*️⃣'; filterText = ':keycap_star:' };
