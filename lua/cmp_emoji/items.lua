@@ -99,6 +99,18 @@ return function() return {
 { word = ':arrow1:'; label = '頻 :arrow1:'; insertText = '頻'; filterText = ':arrow1:' };
 { word = ':telegram3:'; label = ' :telegram3:'; insertText = ''; filterText = ':telegram3:' };
 { word = ':clockD:'; label = '鬒 :clockD:'; insertText = '鬒'; filterText = ':clockD:' };
+{ word = ':chat1:'; label = ' :chat1:'; insertText = ''; filterText = ':chat1:' };
+{ word = ':thumbsUp1:'; label = ' :thumbsUp1:'; insertText = ''; filterText = ':thumbsUp1:' };
+{ word = ':thumbsDown1:'; label = ' :thumbsDown1:'; insertText = ''; filterText = ':thumbsDown1:' };
+{ word = ':download1:'; label = ' :download1:'; insertText = ''; filterText = ':download1:' };
+{ word = ':target1:'; label = ' :target1:'; insertText = ''; filterText = ':target1:' };
+{ word = ':selection2:'; label = ' :selection2:'; insertText = ''; filterText = ':selection2:' };
+{ word = ':gps1:'; label = ' :gps1:'; insertText = ''; filterText = ':gps1:' };
+{ word = ':gps2:'; label = ' :gps2:'; insertText = ''; filterText = ':gps2:' };
+{ word = ':gps3:'; label = ' :gps3:'; insertText = ''; filterText = ':gps3:' };
+{ word = ':gps4:'; label = ' :gps4:'; insertText = ''; filterText = ':gps4:' };
+{ word = ':gps5:'; label = ' :gps5:'; insertText = ''; filterText = ':gps5:' };
+{ word = ':gps6:'; label = ' :gps6:'; insertText = ''; filterText = ':gps6:' };
 
 { word = ':hash:'; label = '#️⃣ :hash:'; insertText = '#️⃣'; filterText = ':hash:' };
 { word = ':keycap_star:'; label = '*️⃣ :keycap_star:'; insertText = '*️⃣'; filterText = ':keycap_star:' };
